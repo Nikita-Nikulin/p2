@@ -32,8 +32,7 @@ public class Ball {
         this.radius = radius;
     }
 
-    public void setType(String type) {
-        this.type = type;
+    public void setType(String type) {this.type = type;
 
     }
 }
